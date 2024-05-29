@@ -6,4 +6,3 @@ Console.WriteLine("Pirponio è un bel ragazzo");
 
 Console.WriteLine("ALTRO CONFLICT PRONTO !! :P");
 
-Console.WriteLine("prima modifica cmndln :P");
