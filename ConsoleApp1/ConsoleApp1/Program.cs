@@ -5,3 +5,5 @@ Console.WriteLine("Prima modifica!");
 Console.WriteLine("Pirponio è un bel ragazzo");
 
 Console.WriteLine("ALTRO CONFLICT PRONTO !! :P");
+
+Console.WriteLine("Prima modifica cmdln");
